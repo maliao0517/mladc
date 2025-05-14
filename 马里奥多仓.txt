@@ -1,0 +1,64 @@
+{
+  "urls": [
+    {
+      "url":"https://github.moeyy.xyz/https://github.com/maliao0517/-/blob/main/api.json",
+      "name": "🍄马里奥专线"
+    },
+    {
+      "url": "https://肥猫.com",
+      "name": "🍄肥猫线路"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+      "name": "🍄讴歌线路"
+    },
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "🍄小米线路"
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🍄王二小线"
+    },    
+    {
+      "url": "https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+      "name": "🍄天微线路"
+    },    
+    {
+      "url": "https://la.kstore.dev/download/2863/01.txt",
+      "name": "🍄潇洒线路"
+    },    
+    {
+      "url": "https://hb.xyyh.online/tvbox/",
+      "name": "🍄小虎斑线路"
+    },
+    {
+      "url": "http://mzjk.top/禁止贩卖",
+      "name": "🍄宝盒线路"
+    },    
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "🍄巧技线路"
+    },
+        {
+      "url": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "🍄夏夜线路🍄"
+    },
+    {
+      "url": "https://d.kstore.dev/download/6744/hz.json",
+      "name": "🍄暴富线路🍄"
+    },
+    {
+      "url": "https://git.acwing.com/Stephen2025/ys/-/raw/main/fyk.json",
+      "name": "🍄康哥线路🍄"
+    },
+    {
+      "url": "https://git.acwing.com/huage2024/huage/-/raw/main/luo.json",
+      "name": "🍄华哥线路🍄"
+    },
+    {
+      "url": "https://git.acwing.com/cdq123/kanhai/-/raw/main/%E7%9C%8B%E6%B5%B7%E6%B5%B7%E5%AE%87%E5%BD%B1%E8%A7%86.json",
+      "name": "🍄海宇影视🍄"
+    }    
+  ]
+}
